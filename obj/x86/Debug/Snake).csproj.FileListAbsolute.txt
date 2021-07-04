@@ -1,0 +1,22 @@
+C:\Users\Наталия\Desktop\проект Змея\Snake)\Snake)\bin\Debug\Snake).exe
+C:\Users\Наталия\Desktop\проект Змея\Snake)\Snake)\bin\Debug\Snake).pdb
+C:\Users\Наталия\Desktop\проект Змея\Snake)\Snake)\obj\x86\Debug\Snake).exe
+C:\Users\Наталия\Desktop\проект Змея\Snake)\Snake)\obj\x86\Debug\Snake).pdb
+C:\Users\Наталия\Desktop\проект Змея\Snake)\Snake)\obj\x86\Debug\Snake).csprojResolveAssemblyReference.cache
+C:\Users\Наталия\Desktop\проект Змея\Snake)\Snake)\bin\Debug\Snake).exe.manifest
+C:\Users\Наталия\Desktop\проект Змея\Snake)\Snake)\bin\Debug\Snake).application
+C:\Users\Наталия\Desktop\проект Змея\Snake)\Snake)\obj\x86\Debug\Snake).exe.manifest
+C:\Users\Наталия\Desktop\проект Змея\Snake)\Snake)\obj\x86\Debug\Snake).application
+C:\Users\Наталия\Desktop\проект Змея ОПП\Snake)\Snake)\obj\x86\Debug\Snake).exe
+C:\Users\Наталия\Desktop\проект Змея ОПП\Snake)\Snake)\obj\x86\Debug\Snake).pdb
+C:\Users\Наталия\Desktop\проект Змея ОПП\Snake)\Snake)\bin\Debug\Snake).exe.manifest
+C:\Users\Наталия\Desktop\проект Змея ОПП\Snake)\Snake)\bin\Debug\Snake).application
+C:\Users\Наталия\Desktop\проект Змея ОПП\Snake)\Snake)\bin\Debug\Snake).exe
+C:\Users\Наталия\Desktop\проект Змея ОПП\Snake)\Snake)\bin\Debug\Snake).pdb
+C:\Users\Наталия\Desktop\проект Змея ОПП\Snake)\Snake)\obj\x86\Debug\Snake).csprojResolveAssemblyReference.cache
+C:\Users\Наталия\Desktop\проект Змея ОПП\Snake)\Snake)\obj\x86\Debug\Snake).exe.manifest
+C:\Users\Наталия\Desktop\проект Змея ОПП\Snake)\Snake)\obj\x86\Debug\Snake).application
+C:\Users\Наталия\Desktop\обучение\проект Змея ОПП\Snake)\Snake)\obj\x86\Debug\Snake).exe
+C:\Users\Наталия\Desktop\обучение\проект Змея ОПП\Snake)\Snake)\obj\x86\Debug\Snake).pdb
+D:\обучение\проект Змея ОПП\Snake)\Snake)\obj\x86\Debug\Snake).exe
+D:\обучение\проект Змея ОПП\Snake)\Snake)\obj\x86\Debug\Snake).pdb
